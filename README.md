@@ -1,5 +1,9 @@
 <h1 align="center">YO 👋, I'm Aditya Singh</h1>
 <h3 align="center">Confused....</h3>
+<h3 align="center">I'm passionate about technology and love contributing.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasingh0912" alt="adityasingh0912" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh0912&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh0912" /> </p>
 
