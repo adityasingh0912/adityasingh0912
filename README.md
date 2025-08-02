@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh0912&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh0912" /> </p>
 
-- 🔭 I’m currently working on [Chatbot](https://github.com/adityasingh0912/Diamond_Chatbot)
+- 🔭 I’m currently working on AI Agents.
 
 - 🌱 I’m currently learning **AI, Deep Learning, Neural network**
 
-- 👨‍💻 All of my projects are available at [this Github](this Github)
+- 👨‍💻 All of my projects are available at [this Github]
 
 - 💬 Ask me about **AI , ML**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/adityasingh0912/Resume/blob/main/Aditya%20Singh.pdf](https://github.com/adityasingh0912/Resume/blob/main/Aditya%20Singh.pdf)
 
-- ⚡fact **I am a lot curious and ready to have a long talk on any subject, politics, codes anything..**
+- ⚡**I am a lot curious and ready to have a long talk on any subject, politics, codes anything..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
