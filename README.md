@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **singh0912aditya@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/adityasingh0912/Resume/blob/main/Aditya%20Singh.pdf](https://github.com/adityasingh0912/Resume/blob/main/Aditya%20Singh.pdf)
+- 📄 Know about my experiences [https://github.com/adityasingh0912/Resume/blob/main/Aditya%20Singh.pdf](https://github.com/adityasingh0912/Resume/blob/main/resume.pdf)
 
 - ⚡**I am a lot curious and ready to have a long talk on any subject, politics, codes anything..**
 
