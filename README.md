@@ -72,4 +72,4 @@ I'm also available for freelance work on [Upwork](https://www.upwork.com/freelan
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/adityasingh09) · singh0912aditya@gmail.com · [LeetCode](https://www.leetcode.com/astryk09) · [Resume](https://github.com/adityasingh0912/Resume/blob/main/resume.pdf)
+[LinkedIn](https://linkedin.com/in/adityasingh09) · singh0912aditya@gmail.com · [LeetCode](https://www.leetcode.com/astryk09) · [Resume](https://github.com/adityasingh0912/Resume)
